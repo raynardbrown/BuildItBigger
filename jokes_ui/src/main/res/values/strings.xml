@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">jokes_ui</string>
+
+    <!-- For saving joke text string state as well as passing a joke string via an intent -->
+    <string name="joke_text_view_string_key">joke_text_view_string_key</string>
+</resources>
